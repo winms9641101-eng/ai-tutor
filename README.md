@@ -14,7 +14,7 @@
 
 | 파일 | 설명 |
 | --- | --- |
-| `index.html.html` | 수강도우미 웹페이지 |
+| `index.html` | 수강도우미 웹페이지 |
 | `display-ai-banner.png` | 안내창 상단 이미지 |
 | `display-ai-icon.png` | 수강도우미 버튼 아이콘 |
 
